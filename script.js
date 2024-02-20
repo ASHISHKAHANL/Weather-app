@@ -1,5 +1,5 @@
 function getWeather() {
-    const apiKey = '57cf9cee252c55feca318202243e6c73';
+    const apiKey = 'Afnai API key halau la';
     const city = document.getElementById('city').value;
 
     if (!city) {
